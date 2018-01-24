@@ -15,9 +15,14 @@ Last twenty tweets of each person is taken and analysed to produce result.
 Lastly the result can be found in a csv file. I have uploaded the csv file too!
 
 # dependencies
+```
 node.js
-twit package (npm install twit)
-csvdata package
+```
+```
+1. twit package (npm install twit)
+
+2. csvdata package
+```
 
 ```
 python3
