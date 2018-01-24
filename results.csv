@@ -1,0 +1,173 @@
+,match-percentage,person - 1,person - 2
+0,100.0,Abhishek,Alia
+0,86.0,Salman Khan,Parineeti Chopra
+0,63.0,Salman Khan,Sonakshi Sinha
+0,83.0,Salman Khan,Alia Bhatt
+0,81.0,Salman Khan,Shah Rukh Khan
+0,77.0,Salman Khan,Anushka Sharma
+0,75.0,Salman Khan,Karan Johar
+0,75.0,Salman Khan,PRIYANKA
+0,86.0,Salman Khan,Shraddha
+0,71.0,Salman Khan,Jacqueline Fernandez
+0,59.0,Salman Khan,Sidharth Malhotra
+0,71.0,Salman Khan,Sonam Kapoor
+0,51.0,Salman Khan,Deepika Padukone
+0,79.0,Salman Khan,Akshay Kumar
+0,45.0,Salman Khan,Shahid Kapoor
+0,61.0,Salman Khan,Varun Dhawan
+0,68.0,Salman Khan,Ranveer Singh
+0,74.0,Salman Khan,Arjun Kapoor
+0,68.0,Salman Khan,Amitabh Bachchan
+0,57.0,Parineeti Chopra,Sonakshi Sinha
+0,86.0,Parineeti Chopra,Alia Bhatt
+0,83.0,Parineeti Chopra,Shah Rukh Khan
+0,65.0,Parineeti Chopra,Anushka Sharma
+0,78.0,Parineeti Chopra,Karan Johar
+0,70.0,Parineeti Chopra,PRIYANKA
+0,84.0,Parineeti Chopra,Shraddha
+0,73.0,Parineeti Chopra,Jacqueline Fernandez
+0,53.0,Parineeti Chopra,Sidharth Malhotra
+0,73.0,Parineeti Chopra,Sonam Kapoor
+0,42.0,Parineeti Chopra,Deepika Padukone
+0,84.0,Parineeti Chopra,Akshay Kumar
+0,37.0,Parineeti Chopra,Shahid Kapoor
+0,66.0,Parineeti Chopra,Varun Dhawan
+0,66.0,Parineeti Chopra,Ranveer Singh
+0,81.0,Parineeti Chopra,Arjun Kapoor
+0,69.0,Parineeti Chopra,Amitabh Bachchan
+0,68.0,Sonakshi Sinha,Alia Bhatt
+0,63.0,Sonakshi Sinha,Shah Rukh Khan
+0,64.0,Sonakshi Sinha,Anushka Sharma
+0,78.0,Sonakshi Sinha,Karan Johar
+0,74.0,Sonakshi Sinha,PRIYANKA
+0,67.0,Sonakshi Sinha,Shraddha
+0,58.0,Sonakshi Sinha,Jacqueline Fernandez
+0,60.0,Sonakshi Sinha,Sidharth Malhotra
+0,61.0,Sonakshi Sinha,Sonam Kapoor
+0,43.0,Sonakshi Sinha,Deepika Padukone
+0,58.0,Sonakshi Sinha,Akshay Kumar
+0,39.0,Sonakshi Sinha,Shahid Kapoor
+0,56.0,Sonakshi Sinha,Varun Dhawan
+0,52.0,Sonakshi Sinha,Ranveer Singh
+0,52.0,Sonakshi Sinha,Arjun Kapoor
+0,51.0,Sonakshi Sinha,Amitabh Bachchan
+0,83.0,Alia Bhatt,Shah Rukh Khan
+0,74.0,Alia Bhatt,Anushka Sharma
+0,69.0,Alia Bhatt,Karan Johar
+0,67.0,Alia Bhatt,PRIYANKA
+0,84.0,Alia Bhatt,Shraddha
+0,72.0,Alia Bhatt,Jacqueline Fernandez
+0,51.0,Alia Bhatt,Sidharth Malhotra
+0,75.0,Alia Bhatt,Sonam Kapoor
+0,46.0,Alia Bhatt,Deepika Padukone
+0,85.0,Alia Bhatt,Akshay Kumar
+0,50.0,Alia Bhatt,Shahid Kapoor
+0,66.0,Alia Bhatt,Varun Dhawan
+0,69.0,Alia Bhatt,Ranveer Singh
+0,79.0,Alia Bhatt,Arjun Kapoor
+0,66.0,Alia Bhatt,Amitabh Bachchan
+0,70.0,Shah Rukh Khan,Anushka Sharma
+0,73.0,Shah Rukh Khan,Karan Johar
+0,78.0,Shah Rukh Khan,PRIYANKA
+0,78.0,Shah Rukh Khan,Shraddha
+0,80.0,Shah Rukh Khan,Jacqueline Fernandez
+0,55.0,Shah Rukh Khan,Sidharth Malhotra
+0,77.0,Shah Rukh Khan,Sonam Kapoor
+0,54.0,Shah Rukh Khan,Deepika Padukone
+0,85.0,Shah Rukh Khan,Akshay Kumar
+0,55.0,Shah Rukh Khan,Shahid Kapoor
+0,64.0,Shah Rukh Khan,Varun Dhawan
+0,65.0,Shah Rukh Khan,Ranveer Singh
+0,79.0,Shah Rukh Khan,Arjun Kapoor
+0,74.0,Shah Rukh Khan,Amitabh Bachchan
+0,62.0,Anushka Sharma,Karan Johar
+0,66.0,Anushka Sharma,PRIYANKA
+0,69.0,Anushka Sharma,Shraddha
+0,67.0,Anushka Sharma,Jacqueline Fernandez
+0,64.0,Anushka Sharma,Sidharth Malhotra
+0,76.0,Anushka Sharma,Sonam Kapoor
+0,60.0,Anushka Sharma,Deepika Padukone
+0,72.0,Anushka Sharma,Akshay Kumar
+0,55.0,Anushka Sharma,Shahid Kapoor
+0,57.0,Anushka Sharma,Varun Dhawan
+0,69.0,Anushka Sharma,Ranveer Singh
+0,70.0,Anushka Sharma,Arjun Kapoor
+0,58.0,Anushka Sharma,Amitabh Bachchan
+0,74.0,Karan Johar,PRIYANKA
+0,80.0,Karan Johar,Shraddha
+0,62.0,Karan Johar,Jacqueline Fernandez
+0,52.0,Karan Johar,Sidharth Malhotra
+0,68.0,Karan Johar,Sonam Kapoor
+0,46.0,Karan Johar,Deepika Padukone
+0,67.0,Karan Johar,Akshay Kumar
+0,37.0,Karan Johar,Shahid Kapoor
+0,61.0,Karan Johar,Varun Dhawan
+0,52.0,Karan Johar,Ranveer Singh
+0,68.0,Karan Johar,Arjun Kapoor
+0,63.0,Karan Johar,Amitabh Bachchan
+0,78.0,PRIYANKA,Shraddha
+0,76.0,PRIYANKA,Jacqueline Fernandez
+0,54.0,PRIYANKA,Sidharth Malhotra
+0,85.0,PRIYANKA,Sonam Kapoor
+0,53.0,PRIYANKA,Deepika Padukone
+0,74.0,PRIYANKA,Akshay Kumar
+0,56.0,PRIYANKA,Shahid Kapoor
+0,72.0,PRIYANKA,Varun Dhawan
+0,61.0,PRIYANKA,Ranveer Singh
+0,68.0,PRIYANKA,Arjun Kapoor
+0,61.0,PRIYANKA,Amitabh Bachchan
+0,60.0,Shraddha,Jacqueline Fernandez
+0,46.0,Shraddha,Sidharth Malhotra
+0,83.0,Shraddha,Sonam Kapoor
+0,41.0,Shraddha,Deepika Padukone
+0,80.0,Shraddha,Akshay Kumar
+0,38.0,Shraddha,Shahid Kapoor
+0,65.0,Shraddha,Varun Dhawan
+0,62.0,Shraddha,Ranveer Singh
+0,69.0,Shraddha,Arjun Kapoor
+0,67.0,Shraddha,Amitabh Bachchan
+0,67.0,Jacqueline Fernandez,Sidharth Malhotra
+0,64.0,Jacqueline Fernandez,Sonam Kapoor
+0,56.0,Jacqueline Fernandez,Deepika Padukone
+0,69.0,Jacqueline Fernandez,Akshay Kumar
+0,63.0,Jacqueline Fernandez,Shahid Kapoor
+0,74.0,Jacqueline Fernandez,Varun Dhawan
+0,62.0,Jacqueline Fernandez,Ranveer Singh
+0,71.0,Jacqueline Fernandez,Arjun Kapoor
+0,80.0,Jacqueline Fernandez,Amitabh Bachchan
+0,48.0,Sidharth Malhotra,Sonam Kapoor
+0,61.0,Sidharth Malhotra,Deepika Padukone
+0,50.0,Sidharth Malhotra,Akshay Kumar
+0,51.0,Sidharth Malhotra,Shahid Kapoor
+0,51.0,Sidharth Malhotra,Varun Dhawan
+0,56.0,Sidharth Malhotra,Ranveer Singh
+0,62.0,Sidharth Malhotra,Arjun Kapoor
+0,59.0,Sidharth Malhotra,Amitabh Bachchan
+0,48.0,Sonam Kapoor,Deepika Padukone
+0,87.0,Sonam Kapoor,Akshay Kumar
+0,46.0,Sonam Kapoor,Shahid Kapoor
+0,62.0,Sonam Kapoor,Varun Dhawan
+0,61.0,Sonam Kapoor,Ranveer Singh
+0,61.0,Sonam Kapoor,Arjun Kapoor
+0,62.0,Sonam Kapoor,Amitabh Bachchan
+0,39.0,Deepika Padukone,Akshay Kumar
+0,63.0,Deepika Padukone,Shahid Kapoor
+0,39.0,Deepika Padukone,Varun Dhawan
+0,64.0,Deepika Padukone,Ranveer Singh
+0,53.0,Deepika Padukone,Arjun Kapoor
+0,59.0,Deepika Padukone,Amitabh Bachchan
+0,45.0,Akshay Kumar,Shahid Kapoor
+0,66.0,Akshay Kumar,Varun Dhawan
+0,64.0,Akshay Kumar,Ranveer Singh
+0,72.0,Akshay Kumar,Arjun Kapoor
+0,61.0,Akshay Kumar,Amitabh Bachchan
+0,56.0,Shahid Kapoor,Varun Dhawan
+0,68.0,Shahid Kapoor,Ranveer Singh
+0,50.0,Shahid Kapoor,Arjun Kapoor
+0,64.0,Shahid Kapoor,Amitabh Bachchan
+0,56.0,Varun Dhawan,Ranveer Singh
+0,57.0,Varun Dhawan,Arjun Kapoor
+0,62.0,Varun Dhawan,Amitabh Bachchan
+0,60.0,Ranveer Singh,Arjun Kapoor
+0,66.0,Ranveer Singh,Amitabh Bachchan
+0,69.0,Arjun Kapoor,Amitabh Bachchan

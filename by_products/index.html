@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Try It! Green Screen Online</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/main.css">
+
+  
+</head>
+
+<body>
+
+  <!-- Calls the DLTP library -->
+<script src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+</script>
+
+<h1>Try It! Green Screen Online<h1>
+
+<!-- Defines canvas for the foreground image -->
+<canvas id="foreground"> </canvas>
+
+<!-- Defines canvas for the background image -->
+<canvas id="background"></canvas>
+
+<!-- Defines canvas for the composite image -->
+<canvas id="composite"></canvas>
+<p>
+
+<!-- Creates foreground image input -->
+<p>Foreground image:
+<input type="file" multiple="false" accept="image/*" id="foregroundimage" onchange="loadForegroundImage()"></p>
+  
+<!-- Creates background image input -->
+<p>Background Image: 
+<input type="file" multiple="false" accept="image/*" id="backgroundimage" onchange="loadBackgroundImage()"></p>
+  
+<!-- Merges both images and sans fg background -->
+<input type="button" value="Create Composite" id="gray" onclick="doGreenScreen()">
+  
+<!-- Clears canvases -->
+<input type="button" value="Clear all images" id="gray" onclick="clearCanvas()">
+
+</p>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
