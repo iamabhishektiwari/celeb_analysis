@@ -48,3 +48,24 @@ Data will be fetched and sorted changed analysed and stored in a csv file.
 ```
 This will display the results.
 
+
+# Sample Result
+
+## Welcome to GitHub Pages
+
+Person 1 | Person 2 | Match |
+--------| ---------| ------|
+Salman Khan |Parineeti Chopra| 86
+Salman Khan	|Sonakshi Sinha | 63
+Salman Khan	|Alia Bhatt|83
+Salman Khan	|Shah Rukh Khan|81
+Salman Khan	|Anushka Sharma|77
+Salman Khan	|Karan Johar|75
+Salman Khan	|PRIYANKA|75
+Salman Khan	|Shraddha|86
+Salman Khan	|Jacqueline Fernandez|71
+Salman Khan	|Sidharth Malhotra|59
+
+
+
+
